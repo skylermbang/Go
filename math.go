@@ -15,3 +15,15 @@ func main() {
 	fmt.Println(math.pi) // wont work pi x 
 	fmt.Println(math.Pi) // Pi  have to be capitalized letter 
 }
+
+/*
+func swap(x, y string) (string, string) {
+	return y, x
+}
+
+func main() {
+	a, b := swap("hello", "world")
+	fmt.Println(a, b)
+}
+
+*/
