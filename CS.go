@@ -27,4 +27,4 @@ A return statement without arguments returns the named return values. This is kn
 var statement declares a list of variables; as in function argument lists, the type is last.
 
 <type>
-/ int  , float64, boolean
+/ int  , float64, bool

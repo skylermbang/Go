@@ -26,4 +26,13 @@ func main() {
 	fmt.Println(a, b)
 }
 
-*/
+
+
+var c, python, java bool
+
+func main() {
+	var i int =1
+	var x float64 = 1.5
+	python = true
+	fmt.Println(i, c,x, python, java)
+}
